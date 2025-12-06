@@ -1,0 +1,4 @@
+[functions.send-order-confirmation]
+verify_jwt = true
+
+
